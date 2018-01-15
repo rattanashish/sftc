@@ -28,9 +28,9 @@ DEBUG = True
 ALLOWED_HOSTS = [
  'rattanashish.pythonanywhere.com',
 'localhost',
-    '127.0.0.1'
-    '139.59.44.226'
+ '127.0.0.1',
  '45.55.93.63'
+  
 ]
 
 
